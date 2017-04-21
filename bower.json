@@ -1,7 +1,7 @@
 {
-  "name": "stats-component-v1",
+  "name": "mdb-metric-display",
   "description": "Stats component",
-  "main": "stats-component-v1.html",
+  "main": "mdb-metric-display.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0"
   },

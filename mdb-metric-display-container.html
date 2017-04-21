@@ -1,13 +1,13 @@
 <link rel="import" href="../polymer/polymer.html">
 
 <!--
-`stats-component-v1`
+`mdb-metric-display-container`
 Stats component
 
 @demo demo/index.html 
 -->
 
-<dom-module id="stats-container-component-v1">
+<dom-module id="mdb-metric-display-container">
   <template>
     <style>
        :host {
@@ -16,7 +16,7 @@ Stats component
         line-height: 1.5;        
       }
       
-       ::content stats-component-v1:last-of-type {
+       ::content mdb-metric-display:last-of-type {
         border-right: 1px solid #e1e6ed;
       }
     </style>
@@ -25,12 +25,12 @@ Stats component
   <script>
     Polymer({
 
-      is: 'stats-container-component-v1',
+      is: 'mdb-metric-display-container',
 
       properties: {
         name: {
           type: String,
-          value: 'stats-container-component-v1',
+          value: 'mdb-metric-display-container',
         },
       },
 
