@@ -1,0 +1,25 @@
+{
+  "name": "mdb-metric-display",
+  "description": "Stats component",
+  "main": "mdb-metric-display.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/skamble89/mdb-metric-display",
+  "_release": "2aa60aa227",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2aa60aa227112ef0c9fed763f8532155ab39ec4c"
+  },
+  "_source": "https://github.com/skamble89/mdb-metric-display.git",
+  "_target": "master",
+  "_originalSource": "skamble89/mdb-metric-display",
+  "_direct": true
+}
